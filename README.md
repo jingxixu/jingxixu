@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Jingxi Xu
+- 🤖 I’m interested in robotics and machine learning. Checkout my code for
+  - [dynamic grasping](https://github.com/jingxixu/dynamic-grasping)
+  - [tactile exploration](https://github.com/jingxixu/tandem-public)
+- 📫 More about me at [jxu.ai](https://jxu.ai)
+- ✍️ Let me know if you have any questions about my code or are interested in collaboration.
